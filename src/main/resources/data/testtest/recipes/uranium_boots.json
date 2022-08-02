@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "uranium_armor",
+  "pattern": [
+    "1 1",
+    "1 1"
+  ],
+  "key": {
+    "1": {
+      "item": "testtest:uranium_ingot"
+    }
+  },
+  "result": {
+    "item": "testtest:uranium_boots",
+    "count": 1
+  }
+}

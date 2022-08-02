@@ -1,0 +1,131 @@
+{
+  "item.testtest.uranium_ingot": "Uranium Ingot",
+  "item.testtest.raw_uranium": "Raw Uranium",
+
+  "item.testtest.uranium_sword": "Uranium Sword",
+  "item.testtest.uranium_sword.tooltip.shift": "Hitting mobs/players will give them the §8Wither§r effect.",
+  "item.testtest.uranium_sword.tooltip": "§8Wither§r effect",
+  "item.testtest.uranium_axe.tooltipSPACE": "              ",
+  "item.testtest.uranium_sword.tooltip2": "Press §eSHIFT§r for INFO",
+
+  "item.testtest.uranium_pickaxe": "Uranium Pickaxe",
+
+  "item.testtest.uranium_axe": "Uranium Axe",
+  "item.testtest.uranium_axe.tooltip.shift": "Hitting mobs/players will give them the §8Wither§r effect.",
+  "item.testtest.uranium_axe.tooltip.shift2": "Mining blocks you get §6Haste§r for short period.",
+  "item.testtest.uranium_axe.tooltip": "§8Wither§r effect",
+  "item.testtest.uranium_axe.tooltip2": "§6Haste§r effect",
+  "item.testtest.uranium_axe.tooltip3": "Press §eSHIFT§r for INFO",
+
+  "item.testtest.uranium_shovel": "Uranium Shovel",
+  "item.testtest.uranium_hoe": "Uranium Hoe",
+  "item.testtest.uranium_helmet": "Uranium Helmet",
+  "item.testtest.uranium_chestplate": "Uranium Chestplate",
+  "item.testtest.uranium_leggings": "Uranium Leggings",
+  "item.testtest.uranium_boots": "Uranium Boots",
+
+  "block.testtest.uranium_ore": "Uranium Ore",
+  "block.testtest.deepslate_uranium_ore": "Deepslate Uranium Ore",
+
+
+
+
+
+
+
+  "item.testtest.ruby": "ruby",
+  "item.testtest.ruby_sword": "Ruby Sword",
+  "item.testtest.ruby_pickaxe": "Ruby Pickaxe",
+  "item.testtest.ruby_axe": "Ruby Axe",
+  "item.testtest.ruby_shovel": "Ruby Shovel",
+  "item.testtest.ruby_hoe": "Ruby Hoe",
+  "item.testtest.ruby_helmet": "Ruby Helmet",
+  "item.testtest.ruby_chestplate": "Ruby Chestplate",
+  "item.testtest.ruby_leggings": "Ruby Leggings",
+  "item.testtest.ruby_boots": "Ruby Boots",
+
+  "block.testtest.ruby_ore": "Ruby Ore",
+  "block.testtest.deepslate_ruby_ore": "Deepslate Ruby Ore",
+
+
+
+
+
+
+
+
+  "item.testtest.plutonium_chunk": "Plutonium Chunk",
+  "item.testtest.plutonium_ingot": "Plutonium Ingot",
+  "item.testtest.plutonium_sword": "Plutonium Sword",
+  "item.testtest.plutonium_pickaxe": "Plutonium Pickaxe",
+  "item.testtest.plutonium_axe": "Plutonium Axe",
+  "item.testtest.plutonium_shovel": "Plutonium Shovel",
+  "item.testtest.plutonium_hoe": "Plutonium Hoe",
+
+
+  "item.testtest.plutonium_helmet": "Plutonium Helmet",
+  "item.testtest.plutonium_chestplate": "Plutonium Chestplate",
+  "item.testtest.plutonium_leggings": "Plutonium Leggings",
+  "item.testtest.plutonium_boots": "Plutonium Boots",
+
+  "block.testtest.plutonium_ore": "Plutonium Ore",
+  "block.testtest.deepslate_plutonium_ore": "Deepslate Plutonium Ore",
+
+  "item.testtest.Plutonium_ingot.tooltip": "§4Furnace resistant§r",
+  "item.testtest.Plutonium_ingot.tooltip.shift2": "This item can not be cooked in any Furnace.",
+  "item.testtest.Plutonium_ingot.tooltip2": "Press §eSHIFT§r for INFO",
+
+  "item.testtest.Lighting.tooltip.shift": "Hitting mobs/players will summon §bLighting§r on that target.",
+  "item.testtest.Lighting.tooltip": "§bLighting§r effect",
+  "item.testtest.Lighting.tooltip2": "Press §eSHIFT§r for INFO",
+
+
+
+
+
+
+
+  "item.testtest.idk_sword": "IDK? Sword",
+  "item.testtest.swordoflife": "The Sword Of Life",
+  "item.testtest.swordofdeath": "The Sword Of Death",
+  "item.testtest.deathchestplate": "Chestplate of Death",
+
+
+
+
+  "item.testtest.Lighting.tooltip4": "§4Instant Heal§r Effect",
+
+  "item.testtest.Lighting.tooltip44": "§4Uses Left ",
+  "item.testtest.idk.tooltip.shift": "Right clicking on a block will effect you with §4Instant heal§r attacking mobs adds to the amount you can use it",
+
+
+
+
+
+
+
+  "item.testtest.shift": "Press §eSHIFT§r for INFO",
+  "item.testtest.instanthealth": "§4Instant Health§r Effect",
+  "item.testtest.withereffect":"Hitting mobs/players will give them the §8Wither§r effect.",
+  "item.testtest.wither2": "Hitting mobs/players will give them the §8Wither§r effect.",
+  "item.testtest.wither23": "§8Wither§r effect",
+  "item.testtest.instanthealthshift": "§4Instant Health§r Effect Does damage to undead mobs and heals non undead mobs.",
+  "item.testtest.withereffectshift":"§8Wither§r effect",
+  "item.testtest.fireoneshift": "Hitting mobs/players will give them the §cFire§r Effect setting them on §cFire§r.",
+  "item.testtest.fireone": "§cFire§r Effect",
+  "item.testtest.tooltipSPACE": "                  ",
+
+
+
+
+
+
+
+  "itemGroup.testtest.newitems": "MO'Ores Items",
+  "itemGroup.testtest.newblocks": "MO'Ores Blocks",
+  "itemGroup.testtest.newtools": "MO'Ores Tools",
+  "itemGroup.testtest.newwepons": "MO'Ores Weapons",
+  "itemGroup.testtest.dungeongear": "MO'Ores Dungeon Gear"
+
+
+}

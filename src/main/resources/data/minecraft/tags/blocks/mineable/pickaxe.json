@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "testtest:uranium_ore",
+    "testtest:deepslate_uranium_ore",
+    "testtest:ruby_ore",
+    "testtest:deepslate_ruby_ore",
+    "testtest:plutonium_ore",
+    "testtest:deepslate_plutonium_ore"
+  ]
+}

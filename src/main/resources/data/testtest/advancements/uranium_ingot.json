@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "testtest:uranium_ingot"
+    },
+    "title": "Radiation",
+    "description": "Acquire uranium ingot",
+    "background": "testtest:textures/block/uranium_ore.png",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "uranium_ingot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "testtest:uranium_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "uranium_ingot"
+    ]
+  ]
+}
