@@ -1,10 +1,4 @@
 # MO'ORES
 
-## Setup
-
-To install the mod please go to the [Curesforge page](https://fabricmc.net/wiki/tutorial:setup) 
-
-[//]: # (## License)
-
-[//]: # ()
-[//]: # (This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.)
+adds more ores to the game and some dungeons 
+this is the sourse code of the mod and only for people that know what there doing
